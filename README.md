@@ -13,6 +13,8 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
 
+A proposta do projeto é uma aplicação que possa conectar quem deseja aprender, com quer ensinar. É possível encontrar alunos ou professores.
+
 ### 🖼 Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="./.github/web-landing.png" width="400px">
@@ -51,7 +53,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 ## 🎓 Quem ministrou?
 
-As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
+As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week 2**.
 
 ---
 
@@ -83,7 +85,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## 📝 License
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
