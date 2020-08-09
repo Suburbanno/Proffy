@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edermaxc/NLW2.git"
+    "url": "git+https://github.com/Suburbanno/Proffy.git"
   },
   "keywords": [],
-  "author": "Eder Max Colin",
+  "author": "Vinicius Rodrigues",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/edermaxc/NLW2/issues"
+    "url": "https://github.com/Suburbanno/Proffy/issues"
   },
-  "homepage": "https://github.com/edermaxc/NLW2#readme",
+  "homepage": "https://github.com/Suburbanno/Proffy#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
